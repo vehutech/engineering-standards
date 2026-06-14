@@ -1,4 +1,4 @@
-# Engineering-Standards by Vehutech
+# Engineering-Standards...
 
 26 rules for AI systems building production software.
 
